@@ -7,3 +7,5 @@ Although there are many approaches, this project is designed to be expandable wi
 Tutorial
 --------
 For an in-depth tutorial, please see [How to Write a Text Adventure in Python](http://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python/).
+
+This is a fork of this python text adventure that I am working on to learn the language and for fun.

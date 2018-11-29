@@ -1,7 +1,7 @@
 """
 A simple text adventure designed as a learning experience for new programmers.
 """
-__author__ = 'Phillip Johnson'
+__author__ = 'Joe Smalley'
 import world
 from player import Player
 
